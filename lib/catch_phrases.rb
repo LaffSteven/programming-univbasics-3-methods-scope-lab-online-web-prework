@@ -13,7 +13,8 @@ def link
   puts saying
 end
 
-def any_saying(phrase)
-  my_phrase = phrase
+
+def any_saying
+  
   puts my_phrase
 end
