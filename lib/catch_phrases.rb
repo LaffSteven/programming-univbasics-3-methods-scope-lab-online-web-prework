@@ -1,5 +1,3 @@
-phrase = ""
-
 def mario
   phrase = "It's-a me, Mario!"
   puts phrase
@@ -16,5 +14,6 @@ def link
 end
 
 def any_saying(phrase)
-  puts phrase
+  my_phrase = phrase
+  puts my_phrase
 end
